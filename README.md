@@ -3,7 +3,9 @@ Interactive U.S. Stock Fundamentals Analysis & Quantitative Risk Assessment Term
 Academic Project | Financial Data Science in Practice
 This project aims to build a professional-grade terminal that bridges the gap between raw financial data and investment decision-making. By integrating the WRDS (Wharton Research Data Services) database, it implements a full-stack quantitative workflow—ranging from bottom-tier financial modeling to front-end risk assessment.
 ------------------------------
-## 🚀 Core Features & Financial Logic## 1. Multi-Dimensional Fundamentals Modeling
+## 🚀 Core Features & Financial Logic
+
+## 1. Multi-Dimensional Fundamentals Modeling
 
 * Profitability Indicator Matrix: High-fidelity visualization of ROA, ROE, and ROC.
 * Trend Smoothing Algorithms: Integrated 4-Quarter Moving Average logic to effectively filter seasonal noise and identify structural corporate inflections.
